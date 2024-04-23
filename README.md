@@ -6,7 +6,6 @@
 详细介绍：[https://liuyanzhao.com/6347.html](https://liuyanzhao.com/6347.html) <br/>
 预览地址 [http://forestblog.liuyanzhao.com](http://forestblog.liuyanzhao.com)
 
-
 前台效果图  <br/>
 ![image](uploads/home.png)
 <br/>
@@ -32,12 +31,6 @@
 ![image](https://github.com/saysky/ForestBlog/blob/master/uploads/tomcat.png)
 
 
-## 使用步骤
-任何问题都可以联系我 <br/>
-简单的我可以直接口头回复你，复杂的可以有偿远程帮你。<br/>
-Q Q：847064370 <br/>
-微信：847064370 <br/>
-在线留言：[https://liuyanzhao.com/message.html](https://liuyanzhao.com/message.html)
 
 #### 1、克隆项目  <br/>
 克隆或者下载项目到本地，解压，主要分为三个部分：ForestBlog、uploads 和 forest_blog.sql <br/>
@@ -61,7 +54,7 @@ forest_blog.sql: 数据库文件，请先创建数据库，然后以运行sql文
 注意修改数据库地址、表名、用户名和密码。<br/>
 否则项目无法启动
 
- 
+
 #### 5、配置 tomcat 和 uploads 目录   <br/>
 该项目是 SSM 项目，没有启动类，需要通过 tomcat 来运行。无论是 Eclipse 还是 IDEA 都很容易。<br/>
 这里主要说一下上传目录映射问题：<br/>
@@ -92,3 +85,4 @@ forest_blog.sql: 数据库文件，请先创建数据库，然后以运行sql文
 ```
 
 如果不修改，会出现uploads的图片无法加载，无法显示上传目录的图片
+OK
