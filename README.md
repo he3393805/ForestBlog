@@ -1,42 +1,10 @@
-最新消息，博主已开通B站账号：[Java刘哥](https://space.bilibili.com/160340478)，欢迎关注，分享自己原创免费Java实战课程、各种框架实战和技巧、以及公司项目经验
-## 博主开发的其他博客或论坛项目全部在这里
-**[https://liuyanzhao.com/shop.html?k=博客](https://liuyanzhao.com/shop.html?k=博客)**   <br/>
-**[https://liuyanzhao.com/shop.html?k=论坛](https://liuyanzhao.com/shop.html?k=论坛)** <br/>
-- -------------------------------------------------------------------------------
-博主提供风吟博客二次开发功能 <br/>
-目前已完成但不限于以下功能（需要相关源码可以联系博主）
-- 风吟博客+协同过滤推荐功能 2022年5月
-- 风吟博客+websocket私信聊天功能 2022年4月
-- 风吟博客+ElasticSearch文章搜索高亮功能 2022年3月
-- 风吟博客改造成其他博客、论坛、知识分享平台  不计其数
-
-- ----------------------------------
-
-
-2022 最新消息 SpringBoot轻量级推荐博客 [https://github.com/saysky/recommendedblog](https://github.com/saysky/recommendedblog)<br/>
-最新消息，SpringBoot博客已经开源，[SENS](https://github.com/saysky/SENS) <br/>
-最新消息 SpringBoot/SSM/Duubo多个版本 [初云博客-SpringBoot版本](https://github.com/saysky/ChuyunBlog)<br/>
-[更多项目、博主付费商品](https://liuyanzhao.com/shop.html)
-
-- ------------------------------------------------------------
 # 关于项目
 该博客是基于SSM实现的个人博客系统，适合初学SSM和个人博客制作的同学学习。<br/>
 最新版本支持用户注册，包含用户和管理员两个角色 。<br/>
-博主已写了一篇该项目的毕业论文和录制了2个小时的代码讲解可以供大家学习，需要的可以联系博主，微信303695336。<br/>
 
 主要涉及技术包括的包括 Maven、Spring、SpringMVC、MyBatis、JSP、MySQL等。 <br/>
 详细介绍：[https://liuyanzhao.com/6347.html](https://liuyanzhao.com/6347.html) <br/>
 预览地址 [http://forestblog.liuyanzhao.com](http://forestblog.liuyanzhao.com)
-
-**博主提供有偿服务**
-- 远程调试环境和运行项目 50
-- 项目论文 100
-- 项目详细讲解2-3小时 200
-- 部署到云服务器 200
-- 项目和部分功能定制 200起
-- 完整毕业设计定制 1000
-- [更多项目、博主付费商品](https://liuyanzhao.com/shop.html)
-
 
 
 前台效果图  <br/>
@@ -124,26 +92,3 @@ forest_blog.sql: 数据库文件，请先创建数据库，然后以运行sql文
 ```
 
 如果不修改，会出现uploads的图片无法加载，无法显示上传目录的图片
-
- 
-## 下载地址：
-Github地址：https://github.com/saysky/ForestBlog
-（如果可以帮忙点一次Star和Fork）
- 
-## 更新记录
-- 2021年02月25日
-- 第三次大更，修复部分Bug，新增用户注册、用户管理等功能
-
-- 2018年11月26日
-- 第二次大更，重新规范了代码，完善了注释
-
-- 2017年10月10日
-- 首次完整提交
-
-## 请喝一杯奶茶
-请我喝一杯奶茶吧！
-插条广告：博主最近有点时间，长期接毕设定制，软件定制，Java问题解决 <br/>
-具体查看[有偿服务](https://liuyanzhao.com/bulletin/my-service)  <br/>
-博主付费商品：[https://liuyanzhao.com/shop.html](https://liuyanzhao.com/shop.html)
-
-![image](uploads/donate.png)
